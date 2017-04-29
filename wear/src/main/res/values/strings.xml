@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WearApp</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="send_to_phone">send to phone</string>
+    <string name="hello_square" />
+    <string name="hello_round" />
+</resources>
